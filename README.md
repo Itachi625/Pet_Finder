@@ -1,5 +1,5 @@
 # Pet_Finder
-A react-native based project which searches your favorite dog breed
+A react-native based project which helps you to find your favorite dog breed
 
 The project uses axios to fetch data from "https://dog.ceo/dog-api/"
 
